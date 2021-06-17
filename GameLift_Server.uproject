@@ -12,7 +12,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "GameLiftServer",
+			"Name": "AwsGameLiftServer",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3437d983a81e423aae09c8dd1f232933"
 		}
